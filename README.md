@@ -7,7 +7,6 @@ Remember, the goal of this project is to use your SQL skills to extract meaningf
 
 SQL Tasks :
 A) Marketing Analysis:
-
 Loyal User Reward: The marketing team wants to reward the most loyal users, i.e., those who have been using the platform for the longest time.
 Your Task: Identify the five oldest users on Instagram from the provided database.
 Inactive User Engagement: The team wants to encourage inactive users to start posting by sending them promotional emails.
@@ -18,8 +17,8 @@ Hashtag Research: A partner brand wants to know the most popular hashtags to use
 Your Task: Identify and suggest the top five most commonly used hashtags on the platform.
 Ad Campaign Launch: The team wants to know the best day of the week to launch ads.
 Your Task: Determine the day of the week when most users register on Instagram. Provide insights on when to schedule an ad campaign.
-B) Investor Metrics:
 
+B) Investor Metrics:
 User Engagement: Investors want to know if users are still active and posting on Instagram or if they are making fewer posts.
 Your Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
 Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
